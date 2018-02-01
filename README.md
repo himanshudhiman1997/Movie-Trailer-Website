@@ -1,5 +1,5 @@
 # Movie Trailer Website
-This project was generated with python.
+This project is made in python.
 
 ### Prerequisites
 A working browser.
